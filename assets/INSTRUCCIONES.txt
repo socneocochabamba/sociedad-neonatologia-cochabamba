@@ -1,0 +1,1 @@
+Coloca aquí la imagen principal y nómbrala hero-neonatologia.jpg. También puedes agregar el logotipo y otras imágenes; luego habrá que ajustar el HTML para mostrarlos.
